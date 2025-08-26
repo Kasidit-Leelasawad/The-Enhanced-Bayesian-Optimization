@@ -16,7 +16,7 @@ A novel Enhanced Bayesian Optimization (BO) framework designed to overcome the c
 
 ## 🔄 Algorithm Workflow
 
-![Enhanced BO Workflow](https://github.com/Kasidit-Leelasawad/The-Enhanced-Bayesian-Optimization/blob/main/docs/workflow.png)
+<img width="1255" height="549" alt="image" src="https://github.com/user-attachments/assets/c7c3e4fd-5027-4600-a2e6-fb8df6c11aaf" />
 
 The optimization process consists of three main phases:
 
@@ -88,26 +88,10 @@ pip install -r requirements.txt
 
 The corresponding manuscript for this repository is currently under preparation. In the interim, please cite this work as follows:
 
-```bibtex
-@article{enhanced_bo_2024,
-  title={Mixed Integer Bayesian Optimisation in High-Dimensional Search Spaces},
-  author={Leelasawad, K. and del Rio Chanona, A.},
-  journal={Manuscript in preparation},
-  year={2024}
-}
-```
+*Leelasawad, K. and del Rio Chanona, A. Mixed Integer Bayesian Optimisation in High-Dimensional Search Spaces.*
 
 ## 👥 Authors
 
 - **Kasidit Leelasawad** - *Main Developer*
-- **Prof. Antonio del Rio Chanona** - *Principal Investigator*
+- **Prof. Antonio del Rio Chanona** - *Project supervisor*
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-For questions and support:
-- Repository: [https://github.com/Kasidit-Leelasawad/The-Enhanced-Bayesian-Optimization](https://github.com/Kasidit-Leelasawad/The-Enhanced-Bayesian-Optimization)
-- Issues: [GitHub Issues](https://github.com/Kasidit-Leelasawad/The-Enhanced-Bayesian-Optimization/issues)
