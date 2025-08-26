@@ -22,7 +22,7 @@ The optimization process consists of three main phases:
 
 ### 1. Initialization Phase
 - **Setup Variables**: Identify integer/continuous variables, create value mappings, initialize bounds and scales
-- **Initialize Components**: GP surrogate (Matérn 5/2 kernel), Trust Region Manager (n=3), NSGA-II evolutionary optimizer, Adaptive parameters (batch, weights)
+- **Initialize Components**: GP surrogate (Matérn 5/2 kernel), Trust Region Manager (n=3), NSGA-II evolutionary optimizer, Adaptive parameters (batch size, weighted of acquisition function, and the number of trust region)
 
 ### 2. Main Optimization Loop
 - **Suggest Phase**: 
